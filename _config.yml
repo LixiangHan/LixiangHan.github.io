@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "HAN Lixiang"
   avatar           : "profile.png"
-  bio              : "I am a fouth-year student from Xiamen  University, majoring in CS."
+  bio              : "I am a fouth-year student from Xiamen University, majoring in Computer Science and Engineering."
   location         : "Xiamen, China"
   employer         :
   pubmed           : ""
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
