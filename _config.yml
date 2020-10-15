@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "HAN Lixiang"
   avatar           : "profile.png"
-  bio              : "fouth-year student at Xiamen University, majoring in Computer Science and Engineering."
+  bio              : "Undergraduate student at Xiamen University, majoring in Computer Science and Engineering."
   location         : "Xiamen, China"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #
+  googlescholar    : #
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : #
   vine             :
   weibo            :
   xing             :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
