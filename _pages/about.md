@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Han Lixiang's home on the web！
+Hi! I am a undergrate student at [Xiamen University](https://en.xmu.edu.cn/), majoring in Computer Science and Technology. 
