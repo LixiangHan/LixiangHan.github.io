@@ -1,0 +1,53 @@
+#main {
+    width: 1000px;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.tag {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.info {
+    display: inline-block;
+    width: 69%;
+    vertical-align: middle;
+    margin-left: 5%;
+}
+
+.avatar {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+}
+
+.paper_overview {
+    display: inline-block;
+    width: 25%;
+    vertical-align: middle;
+}
+
+.overview {
+    width: 100%;
+}
+
+.paper_info{
+    display: inline-block;
+    width: 71%;
+    margin-left: 3%;
+    vertical-align: middle;
+}
+
+.title {
+    margin-left: 2%;
+}
+
+.section {
+    margin-left: 5%;
+    margin-right: 5%;
+}

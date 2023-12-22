@@ -1,0 +1,46 @@
+* {
+    font-family: Consolas;
+}
+
+.conf {
+    font-weight: bold;
+    color: deepskyblue;
+}
+
+.me {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: deeppink;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.cursor {
+	position: relative;
+	top: 0;
+	right: 0;
+	background: white;
+	width: 100%;
+	border-left: .1em solid transparent;
+    -webkit-animation: cursor 1s infinite;
+    animation: cursor 1s infinite;
+}
+
+/* Animation */
+@-webkit-keyframes cursor{
+	50% { border-color: deeppink;}
+}
+@keyframes cursor{
+	50% { border-color: deeppink;}
+}
+
+.footer {
+    text-align: center;
+    color: darkgray;
+}
