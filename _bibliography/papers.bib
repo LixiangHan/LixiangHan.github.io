@@ -1,0 +1,35 @@
+---
+---
+
+@inproceedings{han2024dtmm,
+  title={DTMM: Deploying TinyML Models on Extremely Weak IoT Devices with Pruning},
+  author={Han, Lixiang and Xiao, Zhen and Li, Zhenjiang},
+  booktitle={IEEE International Conference on Computer Communications},
+  year={2024},
+  selected={true},
+  abbr={INFOCOM '24},
+  pdf={DTMM_INFOCOM.pdf},
+  abstract={Abstract—DTMM is a library designed for efficient deploy-
+ment and execution of machine learning models on weak IoT
+devices such as microcontroller units (MCUs). The motivation
+for designing DTMM comes from the emerging field of tiny
+machine learning (TinyML), which explores extending the reach
+of machine learning to many low-end IoT devices to achieve
+ubiquitous intelligence. Due to the weak capability of embedded
+devices, it is necessary to compress models by pruning enough
+weights before deploying. Although pruning has been studied
+extensively on many computing platforms, two key issues with
+pruning methods are exacerbated on MCUs: models need to be
+deeply compressed without significantly compromising accuracy,
+and they should perform efficiently after pruning. Current
+solutions only achieve one of these objectives, but not both. In
+this paper, we find that pruned models have great potential for
+efficient deployment and execution on MCUs. Therefore, we pro-
+pose DTMM with pruning unit selection, pre-execution pruning
+optimizations, runtime acceleration, and post-execution low-cost
+storage to fill the gap for efficient deployment and execution
+of pruned models. It can be integrated into commercial ML
+frameworks for practical deployment, and a prototype system
+has been developed. Extensive experiments on various models
+show promising gains compared to state-of-the-art methods.}
+}
