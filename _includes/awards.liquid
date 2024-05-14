@@ -1,0 +1,13 @@
+<div class="awards">
+  {% if site.awards != blank %}
+    <div>
+    {% assign awards = site.awards | reverse %}
+    {% for item in awards %}
+        {{item.content}}
+    {% endfor %}
+      
+    </div>
+  {% else %}
+    <p>No awards so far...</p>
+  {% endif %}
+</div>
