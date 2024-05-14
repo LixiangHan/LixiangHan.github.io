@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Thrilled to be awarded the `MobiSys` 2024 Student Travel Grant.
+Thrilled to be awarded the MobiSys 2024 Student Travel Grant.
