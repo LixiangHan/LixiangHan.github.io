@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
+**Research Tuition Scholarship**, *CityU*, 2024.
+
 **Student Travel Grant**, *ACM MobiSys*, 2024. 
