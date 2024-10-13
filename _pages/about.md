@@ -18,6 +18,6 @@ teaching: true
 awards: true
 ---
 
-I am currently a third-year Ph.D. student at the Department of Computer Science, `City University of Hong Kong`, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to my Ph.D. studies, I completed my bachelor's degree in Computer Science and Technology at `Xiamen University` in 2021.
+I am currently a fourth-year Ph.D. student at the Department of Computer Science, `City University of Hong Kong`, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to my Ph.D. studies, I completed my bachelor's degree in Computer Science and Technology at `Xiamen University` in 2021.
 
 My research focuses on creating resource-efficient learning systems for mobile edge devices.
