@@ -16,6 +16,7 @@ social: true # includes social icons at the bottom of the page
 service: true
 teaching: true
 awards: true
+tools: true
 ---
 
 I am currently a fourth-year Ph.D. student at the Department of Computer Science, `City University of Hong Kong`, under the guidance of [Prof. Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/). Prior to my Ph.D. studies, I completed my bachelor's degree in Computer Science and Technology at `Xiamen University` in 2021.
