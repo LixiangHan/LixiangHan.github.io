@@ -9,6 +9,8 @@ nav_order: 6
 
 ## invited reviewer
 
+IEEE Transactions on Mobile Computing (TMC)
+
 ACM MobiCom 2025
 
 ACM SenSys 2024
